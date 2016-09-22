@@ -1,0 +1,3 @@
+google yandex
+yahoo yandex
+twitter google
